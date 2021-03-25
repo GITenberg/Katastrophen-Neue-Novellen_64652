@@ -1,11 +1,16 @@
 _repo: Katastrophen-Neue-Novellen_64652
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64652-h/images/cover.jpg
 creator:
   author:
     agent_name: Déry, Juliane
     gutenberg_agent_id: '52997'
     url: http://www.gutenberg.org/2009/agents/52997
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64652#Katastrophen-Neue-Novellen
 gutenberg_issued: '2021-02-28'
 gutenberg_type: Text
 identifiers:
